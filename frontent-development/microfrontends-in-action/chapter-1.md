@@ -21,7 +21,7 @@ using a meta-framework like single-spa ***
 #### Communication
 - for interactive apps, u need communication between components such as when one is updated other should have to update as well
 
-### Shared Topicslink
+### Shared Topics
 - To work autonomously following things should be kept in mind
   1. Web Performance
   2. Common Design System
